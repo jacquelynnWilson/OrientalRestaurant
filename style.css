@@ -1,0 +1,61 @@
+.name{
+     line-height:0;
+     text-align: center;
+     font-family:Bebas Neue; 
+     color:#ff0000;
+}
+
+.deliver{
+
+
+	line-height:0;
+	margin-left: 50px;
+	font-family:Bebas Neue;
+	margin-top: -90px;
+	
+}
+
+.known{
+		line-height:.3;
+		text-align: center;
+		font-family:Bebas Neue; 
+
+}
+
+.contact{
+     line-height:.3;
+     text-align: center;
+     font-family:Bebas Neue; 
+     color:#ff0000;
+
+}
+
+.address{
+
+	 line-height:.3;
+     text-align: center;
+     font-family:Bebas Neue; 
+
+}
+
+.map{
+	position: relative;
+	line-height:.3;
+    text-align: right;
+    margin-top: 200px;
+
+
+}
+
+.panda1{
+
+  margin-left: 50px;
+  margin-top: -500px;
+
+}
+
+.sun{
+	position: relative;
+	margin-left: 880px;
+	margin-top: -900px;
+}
