@@ -31,6 +31,12 @@ h4{
 }
 
 
+h5{
+
+	font-size: 35px;
+	line-height:0;
+}
+
 button{
 	background-color: #4CAF50;
   	border: none;
@@ -50,6 +56,6 @@ button{
     background-size: auto;
     background-color: #ffffe6;
     background-repeat: no-repeat;
-    background-position: 200% 50%;
+    background-position: 300% 50%;
 
   }
