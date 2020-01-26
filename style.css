@@ -1,61 +1,55 @@
-.name{
-     line-height:0;
-     text-align: center;
-     font-family:Bebas Neue; 
-     color:#ff0000;
-}
 
-.deliver{
-
-
+h1{
 	line-height:0;
-	margin-left: 50px;
-	font-family:Bebas Neue;
-	margin-top: -90px;
-	
+	font-size:100px;
+	font-family: Expletus;
+	color:#ff0000;
+	text-align: center;
 }
 
-.known{
-		line-height:.3;
-		text-align: center;
-		font-family:Bebas Neue; 
 
+@font-face{
+  font-family: Expletus;
+  src: url(ExpletusSans-Regular.ttf);
 }
 
-.contact{
-     line-height:.3;
-     text-align: center;
-     font-family:Bebas Neue; 
-     color:#ff0000;
 
-}
-
-.address{
-
-	 line-height:.3;
-     text-align: center;
-     font-family:Bebas Neue; 
-
-}
-
-.map{
-	position: relative;
+h2,h3{
 	line-height:.3;
-    text-align: right;
-    margin-top: 200px;
-
-
+	font-size:65px;
+	font-family:Bebas Neue;
+	color:black;
+	text-align: center;
 }
 
-.panda1{
-
-  margin-left: 50px;
-  margin-top: -500px;
-
+h4{
+	line-height:0;
+	font-size:65px;
+	font-family:Bebas Neue;
+	color:#ff0000;
+	text-align: left;
 }
 
-.sun{
-	position: relative;
-	margin-left: 880px;
-	margin-top: -900px;
+
+button{
+	background-color: #4CAF50;
+  	border: none;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	border-radius: 8px;
 }
+
+  body{
+
+    background-image: url("pan.png");
+    background-size: auto;
+    background-color: #ffffe6;
+    background-repeat: no-repeat;
+    background-position: 200% 50%;
+
+  }
