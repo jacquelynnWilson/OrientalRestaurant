@@ -7,11 +7,14 @@
      src: url(WendyOne-Regular.ttf);
 }
  .name-rest{
-     line-height:0rem;
+
+ 	padding-top: 10%;
+ 	line-height: 1rem;
      font-size:9rem;
      font-family: Expletus;
      color:#ff0000;
      text-align: center;
+
 }
  .restaurant{
      line-height:.38rem;
@@ -95,22 +98,45 @@
      padding: 0;
 }
  nav{
+
+position: right;
 }
  nav ul{
      list-style: none;
+     float: left;
+
+
 }
  nav ul li{
      display:inline-block;
-     padding: 1rem;
+     padding: 2rem;
+
+
 }
  nav ul li a{
+
      text-decoration: none;
      font-family: WendyOne-Regular;
      background-color: #4CAF50;
      color: black;
+     padding: 2vh 5vh;
      text-align: center;
-     font-size: 2.5rem;
+     line-height: 2vh;
+     border-radius:2vh;
+     font-size: 3rem;
+
 }
+
+
+
+a.active,a:hover{
+	background: #3e8e41;
+	transition: .3s;
+}
+
+
+
+
 /* button{
      background-color: #4CAF50;
      border: none;
